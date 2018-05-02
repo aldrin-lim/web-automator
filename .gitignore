@@ -7,5 +7,5 @@ dist
 .vscode
 build/
 package-lock.json
-./config.json
+config.json
 out.png
